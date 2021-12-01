@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G5RlYb8s8I8Mlmtn2V4cnlmq+WgLVP4SExjHYK4KFwZJLoy5BWwU3ptMZLOFs67wR29uNPwF1FmpHE8YY/eqkg==",
+  "success": true,
+  "projectFilePath": "/Users/morrified/uia/host2021/ikt300/EngUoM/EngUoM.csproj",
+  "expectedPackageFiles": [
+    "/Users/morrified/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/morrified/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/morrified/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/morrified/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/morrified/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/morrified/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
